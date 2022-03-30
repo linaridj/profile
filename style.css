@@ -1,0 +1,53 @@
+body {
+	background-color: #FF87AB;
+}
+
+h1 {
+	color: #9c89b8;
+	font-family: 'Hurricane', cursive;
+	font-size: 40px;
+}
+
+h2 {
+	color: #FF5D8F;
+
+}
+
+h3 {
+	font-family: 'Hurricane', cursive;
+	color: #9c89b8;
+	font-size: 40px;
+
+}
+p { 
+	font-family: 'Lobster', cursive;
+	font-size: 20px;
+}
+
+
+div {
+	background-color: #FFC4D6;
+	width: 800px;
+	border-radius: 20px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+#euphoria {
+	width: 500px;
+	margin: 0 auto;
+	width: 50px;
+	height:  200px;
+	border-radius: 100px;
+	object-fit: cover;
+}
+
+.lina {}
+
+.présentation { 
+ }
+
+.livres {  }
+
+.séries {  }
